@@ -22,24 +22,28 @@ Before you begin, ensure you have the following software installed:
    cd varsani_hemal_ui_garden_build_checks
 
 2. **Install Dependencies:**
-``` npm install
+``` bash
+npm install
 ```
 
 ## Running the project
 To start the development server and view the project in your browser, run:
-``` npm start
+``` bash
+ npm start
 ```
 
 ## Building For Production
 To generate a production build of the UI component library, use:
-``` npm run build
+``` bash
+ npm run build
 ```
 
 ### Code Linting and Formatting
 
 This project uses ESLint and Prettier to maintain code quality and consistency. To check and fix linting and formatting issues, run:
 
-```npm run lint
+``` bash
+npm run lint
 ```
 
 ### Proving Functionality
