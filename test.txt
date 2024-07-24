@@ -1,0 +1,2 @@
+echo "const foo = 1;" > test-file.js
+echo "function bar() { console.log('test'); }" >> test-file.js
